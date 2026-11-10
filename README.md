@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justPaulo
 - 👀 I’m interested in everything plus a couple of things.
-- 🌱 I’m currently learning all I can regarding public cloud, hybrid and on-prem Efficient Data solutions based in MSSQL / Arc / azdata, containerization and serverless.
-- 💞️ I’m looking to collaborate on ARM M1 projects 
+- 🌱 I’m currently learning all I can regarding public cloud, hybrid and on-prem Efficient Data solutions based in MSSQL / Arc / azdata, containerization, serverless and AO
+- 💞️ I’m looking to collaborate on ARM M-series projects 
 - 📫 How to reach me ... here or pnascim _AT_ gmail _dot_ com
 
 <!---
